@@ -1,0 +1,1 @@
+Zdravo ovo je prva verzija readme.txt
